@@ -1,8 +1,9 @@
 ## Hi there, I'm Hritik Mishra 👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hritik+Mishra!;FFull+Stack+MERN+Engineer+%F0%9F%9A%80;Backend+Specialist+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Hritik+Mishra!;Full+Stack+(MERN)+Developer" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
