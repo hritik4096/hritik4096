@@ -51,9 +51,10 @@
 
 ### 📫 Let’s Connect!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/hritik4096/](https://www.linkedin.com/in/hritik-mishra-02955922a/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/hritik-mishra-02955922a/)
 - 📬 Email: mishrahritik31@gmail.com
-- 🌐 [Portfolio Website](https://myportfolio-e58a.onrender.com/) *(Add your site if available)*
+- 🌐 [Portfolio Website](https://myportfolio-e58a.onrender.com/)
+
 
 ---
 
