@@ -1,7 +1,7 @@
 ## Hi there, I'm Hritik Mishra 👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Hritik+Mishra!;Full+Stack+(MERN)+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Hritik+Mishra!;Full+Stack+AI+Engineer" alt="Typing SVG" />
 </h1>
 
 
